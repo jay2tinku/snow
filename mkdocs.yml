@@ -1,5 +1,5 @@
-site_name: create-inc-ticket
-site_description: Create SNOW Ticket
+site_name: SNOW Action
+site_description: SNOW Action
 plugins:
   - techdocs-core
 nav:
