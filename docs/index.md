@@ -14,6 +14,8 @@ Launch ServiceNow Create Template for create a new ticket in SNOW.
 ### 3. Click on **Review** verify detaila and Click on **Create** to create the ticket.
 
 
+<br><br>  <!-- Adds two blank lines -->
+
 # ServiceNow Fetch Template
 
 Launch ServiceNow Fetch Template to view existing tickets in SNOW.
