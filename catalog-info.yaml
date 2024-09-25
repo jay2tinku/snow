@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: SNOW actions
+  name: snow_actions
   description: "Manage service from RHDH"
   annotations:
     # this could also be `url:<url>` if the documentation isn't in the same location
