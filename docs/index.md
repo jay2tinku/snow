@@ -5,6 +5,7 @@ Launch ServiceNow Create Template for create a new ticket in SNOW.
 ## 1. Launch template
 
 ![Architecture Diagram](./Incident_Create.png)
+<img src="./Incident_Create.png" alt="Architecture Diagram" width="500"/>
 
 
 
