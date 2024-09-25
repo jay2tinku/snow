@@ -5,10 +5,4 @@ plugins:
 nav:
   - Create Ticket: index.md
 
-site_name: view-inc-ticket
-site_description: View SNOW Ticket
-plugins:
-  - techdocs-core
-nav:
-  - View Ticket: index1.md
 
