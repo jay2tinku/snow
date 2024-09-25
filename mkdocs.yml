@@ -1,6 +1,7 @@
-site_name: architecture-diagram
-site_description: Architecture diagram
+site_name: snow-action
+site_description: SNOW Actions
 plugins:
   - techdocs-core
 nav:
   - Getting Started: index.md
+
