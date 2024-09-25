@@ -3,12 +3,12 @@ site_description: Create SNOW Ticket
 plugins:
   - techdocs-core
 nav:
-  - Getting Started: index.md
+  - Create Ticket: index.md
 
 site_name: view-inc-ticket
 site_description: View SNOW Ticket
 plugins:
   - techdocs-core
 nav:
-  - Getting Started: index1.md
+  - View Ticket: index1.md
 
