@@ -1,7 +1,14 @@
-site_name: snow-action
-site_description: SNOW Actions
+site_name: create-inc-ticket
+site_description: Create SNOW Ticket
 plugins:
   - techdocs-core
 nav:
   - Getting Started: index.md
+
+site_name: view-inc-ticket
+site_description: View SNOW Ticket
+plugins:
+  - techdocs-core
+nav:
+  - Getting Started: index1.md
 
